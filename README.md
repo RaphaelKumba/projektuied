@@ -3,8 +3,8 @@
 Welcome to the Duck Desk AR Game! In this fun and fast-paced augmented reality (AR) game, ducks fall onto a desk, and your goal is to place blocks on the desk to remove the ducks. Be quick, because if the number of ducks on the desk exceeds 10, you lose the game! Survive as long as possible and aim for the highest score.
 
 # Requirements
-Android phone with AR capabilities.
-ARCore (if not pre-installed, it can be downloaded from the Play Store).
+- Android phone with AR capabilities.
+- ARCore (if not pre-installed, it can be downloaded from the Play Store).
 
 # How to Play
 1. Launch the game on your Android device.
